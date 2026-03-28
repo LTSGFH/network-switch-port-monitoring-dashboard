@@ -1,27 +1,49 @@
-# Network Switch Port Monitoring Dashboard (Power BI)
+# 🌐 Network Switch Port Monitoring Dashboard (Power BI)
 
-## Project Overview
-This project monitors network switch port status using Power BI.  
-The dashboard helps identify active and inactive ports, analyze switch performance, and monitor network infrastructure.
+![Dashboard Preview](Network_Switch_Port_Monitoring_Dashboard.png)
 
-## Tools Used
-- Power BI
-- Excel
-- Power Query
-- Data Transformation
+## 🔍 Quick Summary
+Power BI dashboard designed to monitor network switch port status, failures, and infrastructure performance.
 
-## Dashboard Features
-- Total switches monitored
-- Total ports
-- Active vs inactive ports
-- Switch-wise port utilization
-- Site-wise monitoring
+---
 
-## Key Insights
-- Identifies inactive ports quickly
-- Helps monitor switch performance
-- Provides operational visibility for network infrastructure
+## 🛠 Tools Used
+- Power BI  
+- Excel  
+- Data Visualization  
 
-## Dashboard Preview
+---
 
-![Network Switch Dashboard](Network_Switch_Port_Monitoring_Dashboard.png)
+## 📈 Key Insights
+- Port status (Active / Down)
+- Failure tracking
+- Infrastructure performance monitoring
+- Site-wise analysis  
+
+---
+
+## 📊 Dashboard Overview
+
+This dashboard provides a complete view of:
+
+- Network health  
+- Port activity  
+- Failure detection  
+- Performance insights  
+
+---
+
+## 🎯 Objective
+To monitor network systems and quickly identify issues to reduce downtime.
+
+---
+
+## 💼 Business Impact
+
+- Improves network monitoring  
+- Helps detect failures faster  
+- Reduces downtime  
+
+---
+
+🔗 Author: https://github.com/LTSGFH
